@@ -1,3 +1,4 @@
+#
 public class Worker {
     private OnTaskDoneListener callback;
     public Worker (OnTaskDoneListener callback) {
@@ -18,3 +19,4 @@ public class Worker {
 
     }
 }
+#
